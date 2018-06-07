@@ -1,0 +1,35 @@
+html, body {
+	height: 100%;
+}
+
+header {
+	height: 100%;
+	background: #001326;	
+		
+	}
+
+
+
+nav{
+	background: #212121;
+	padding: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center
+	
+}
+
+.texto{
+	color: #F6F6F6;
+}
+footer {
+	background-color: #323232;
+	padding-top: 20px;
+}
+footer.h5{
+	background: #F6F6F6;
+}
+
+th,td {
+			padding: 15px;
+		}
